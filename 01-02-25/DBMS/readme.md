@@ -1,6 +1,4 @@
 
----
-
 # Customer Who Visited but Did Not Make Any Transactions
 
 ## Problem Description
